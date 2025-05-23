@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/controller/getstockprices.ts","./src/routes/stockroute.ts","./src/utils/calculatecorrelation.ts","./src/utils/fetchtoken.ts"],"version":"5.7.3"}
